@@ -2,9 +2,11 @@
 
 This is my web development project for **FIT1050 - Web Fundamentals** at **Monash University**.
 
+
 ## 📄 Overview
 
 The website is a mock e-commerce platform called **Clover Firearms**, showcasing firearm products, deals, and an enquiry form. It is a static site built using HTML, CSS, and JavaScript.
+
 
 ## 🎨 Template
 
@@ -13,6 +15,7 @@ I used the existing **ZeroFour** HTML5 template from [html5up.net/zerofour](http
 - The content and text throughout the site
 - All image assets (e.g. homepage banners, product visuals)
 - The site color scheme and font styles
+
 
 ## ✨ Features Added
 
@@ -35,8 +38,6 @@ This feature is useful for demonstrating how a static HTML/CSS site can still in
 ## 📬 Contact
 
 If you have questions about this project, feel free to reach out via GitHub Issues.
-
----
 
 **Note**: This site is for academic purposes only and does not represent a real company or product.
 
