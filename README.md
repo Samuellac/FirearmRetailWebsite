@@ -17,5 +17,27 @@ I used the existing **ZeroFour** HTML5 template from [html5up.net/zerofour](http
 ## ✨ Features Added
 
 - **EmailJS Integration**: I implemented an additional JavaScript feature using [EmailJS](https://www.emailjs.com/) that allows users to send enquiry form responses directly to an email address.
-  - The form is located on the homepage under the "Enquiries" section.
-  - Submissions trigger `emailjs.sendForm(...)` on form submission.
+## ✉️ EmailJS Enquiry Form Integration
+
+An additional JavaScript feature was implemented using [EmailJS](https://www.emailjs.com/) to handle enquiry submissions.
+
+- When a customer fills out the enquiry form on the homepage and clicks "Send", the form data is sent directly to a designated email address without needing a server-side backend.
+- This is done via the javascript method and APIs from EmailJS, using a configured service ID and template ID.
+
+**Benefits:**
+- Enables real-time enquiry handling
+- Requires no custom backend code
+- Keeps the project lightweight and static
+
+This feature is useful for demonstrating how a static HTML/CSS site can still include interactive, real-world functionality such as email communication.
+
+
+## 📬 Contact
+
+If you have questions about this project, feel free to reach out via GitHub Issues.
+
+---
+
+**Note**: This site is for academic purposes only and does not represent a real company or product.
+
+
