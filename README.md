@@ -35,7 +35,7 @@ An additional JavaScript feature was implemented using [EmailJS](https://www.ema
 This feature is useful for demonstrating how a static HTML/CSS site can still include interactive, real-world functionality such as email communication.
 
 
-### 🔗 Live Site
+## 🔗 Live Site
 
 The deployed version of this website is hosted on **Netlify**.  
 Visit it here: [https://moonlit-pithivier-c907e5.netlify.app/](https://moonlit-pithivier-c907e5.netlify.app/)
